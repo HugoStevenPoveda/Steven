@@ -4,6 +4,7 @@ module.exports = {
     title: "landingPage",
   },
   plugins: [
+    "install gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
