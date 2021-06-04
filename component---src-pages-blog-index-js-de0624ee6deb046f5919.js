@@ -1,0 +1,2 @@
+(self.webpackChunklanding_page=self.webpackChunklanding_page||[]).push([[524],{8080:function(e,n,a){"use strict";a.r(n);var l=a(7294);n.default=function(){return l.createElement("h1",{id:"blog"},"hola blog")}}}]);
+//# sourceMappingURL=component---src-pages-blog-index-js-de0624ee6deb046f5919.js.map
