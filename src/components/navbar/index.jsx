@@ -21,7 +21,7 @@ const Navbar = ({ siteTitle }) => (
           <NavbarList>
             <li><Link to="/about" className="lined-link" activeClassName="active"> <User /> <span> About </span> </Link></li>
             <li><Link to="/portafolio" className="lined-link" activeClassName="active"> <Briefcase /> <span> Portfolio </span> </Link></li>
-            <li><Link to="/blog" className="lined-link" activeClassName="active"> <Feather /> <span> Blog </span> </Link></li>
+            <li><Link to="https://stevenpoveda.blogspot.com/" className="lined-link" activeClassName="active"> <Feather /> <span> Blogger </span> </Link></li>
 
             <li><Link to="contact" className="lined-link" activeClassName="active"> <Mail /> <span> Contact </span> </Link></li>
 

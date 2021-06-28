@@ -8,6 +8,7 @@ const Contact = () => (
     <NavbarSecond siteTitle="Contact"></NavbarSecond>
 
     <h1>hola contact</h1>
+    
 
 
   </div>
