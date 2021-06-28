@@ -6,9 +6,12 @@ const Home = () => (
 
 
     <div>
+
         <GlobalStyle />
         <Navbar siteTitle="Steven Poveda"></Navbar>
+        <h2>hola steven como estas</h2>
    
+
     </div>
 )
 
