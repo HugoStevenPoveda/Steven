@@ -1,9 +1,12 @@
 import React from 'react'
- const Ebooks = () => (
-      <h1>hola ebooks</h1>
+import NavbarSecond from '../../components/navbarSecond'
+
+const Ebooks = () => (
+     <div>
+          <NavbarSecond siteTitle="Ebooks"></NavbarSecond>
+     </div>
 
 
- )
+)
 
- export default  Ebooks
- 
+export default Ebooks
